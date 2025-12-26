@@ -1,0 +1,15 @@
+streamlit>=1.32.0
+
+# Torch (CPU-only, Streamlit Cloud safe)
+torch==2.0.1
+torchvision==0.15.2
+
+# YOLO (compatible with torch 2.0.x)
+ultralytics==8.0.196
+
+# OpenCV (headless for cloud)
+opencv-python-headless==4.8.1.78
+
+pillow
+numpy
+google-generativeai
