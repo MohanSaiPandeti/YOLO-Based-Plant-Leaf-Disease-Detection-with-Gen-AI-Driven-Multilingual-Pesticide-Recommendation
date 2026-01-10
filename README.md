@@ -57,7 +57,6 @@ The complete workflow of the system is as follows:
 The application is executed using a virtual environment and Streamlit.
 
 ```bash
-conda deactivate
 venv\Scripts\activate
 streamlit run app.py
 ```
